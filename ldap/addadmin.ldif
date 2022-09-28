@@ -1,0 +1,4 @@
+dn: cn=Administrators,cn=Builtin,dc=vsphere,dc=local
+changetype: modify
+add: member
+member: CN=vcenterAccount,CN=Users,DC=vsphere,dc=local

@@ -1,0 +1,9 @@
+dn: CN=vcenterAccount,CN=Users,DC=vsphere,dc=local
+userPrincipalName: vcenterAccount@vsphere.local
+sAMAccountName: vcenterAccount
+cn: vcenterAccount
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+userPassword: G%2kX@PjYn%Jy$Nb

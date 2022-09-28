@@ -1,0 +1,8 @@
++  dcAccount            REG_SZ          172.22.224.2
++  dcAccountDN          REG_SZ          cn=172.22.224.2,ou=Domain Controllers,dc=vsphere,dc=local
++  dcAccountPassword    REG_SZ          `1R3NnjBbU/?;xUTb&T2
++  DirtyShutdown        REG_DWORD       0x00000000 (0)
++  LduGuid              REG_SZ          fe9c5720-afe1-11e6-89ce-005056956bf5
++  MachineGuid          REG_SZ          ee54b510-afe1-11e6-a6e3-005056956bf5
++  SiteGuid             REG_SZ          ee48ce31-afe1-11e6-8d6c-005056956bf5
+   Description          REG_SZ          VMware Directory Service
